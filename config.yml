@@ -1,0 +1,12 @@
+dataset:
+  path: "data/evaluation_data.csv"
+  input_field: "utterance"
+  output_field: "label"
+  dataset_name: "banking77-gold-set-1"
+two_stage_dataset:
+  path: "data/two_stage_data.csv"
+  input_field: "utterance"
+  output_field: "child_category"
+  metadata_field: "parent_category"
+  dataset_name: "two-stage-dataset"
+debug: False

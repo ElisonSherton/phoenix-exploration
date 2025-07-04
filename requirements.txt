@@ -1,0 +1,8 @@
+uv
+arize-phoenix
+arize-phoenix-otel
+openinference-instrumentation-openai
+openai
+python-dotenv
+datasets
+ipykernel

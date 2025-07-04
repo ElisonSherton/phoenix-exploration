@@ -1,0 +1,21 @@
+utterance,label
+If my kids wanted to use your service how old would they have to be?,age_limit
+Can I have it add money automatically in certain intervals?,automatic_top_up
+Do you have an auto top-up option?,automatic_top_up
+Can I open a bank account for my newborn baby?,age_limit
+Can I use my Apple Watch to to top up?,apple_pay_or_google_pay
+Can I top up from my Apple Watch?,apple_pay_or_google_pay
+Which ATMs accept this placard ?,atm_support
+Do my kids have to be a certain age to use this service?,age_limit
+how do I top up my money automatically,automatic_top_up
+What is the auto top up function and where can I find that at?,automatic_top_up
+How do I know which ATMs will accept this card?,atm_support
+How do I open up an account for my child?,age_limit
+How can I top-ff my account using my Apple Watch?,apple_pay_or_google_pay
+"I read about the auto-top up function, but can't find it in the app.",automatic_top_up
+How old do we have to be?,age_limit
+Can I use this card at an ATM?,atm_support
+I can't top up my account using my American Express with Apple Pay.,apple_pay_or_google_pay
+At what ATMS am I able to use the card?,atm_support
+Are there certain ATMs that I can use this card at?,atm_support
+Is the top up feature available on the Apple Watch?,apple_pay_or_google_pay
